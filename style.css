@@ -21,6 +21,10 @@
     display: none;
 }
 
+.elemento {
+    appearance: valor-de-apariencia;
+}
+
 @font-face {
     font-family: Source Sans Pro;
     font-style: italic;
